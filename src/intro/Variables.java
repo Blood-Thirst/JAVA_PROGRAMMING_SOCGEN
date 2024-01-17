@@ -1,4 +1,6 @@
-public class prog2_02Variables {
+package intro;
+
+public class Variables {
     public static void main(String[] args){
         //Declaring a variable
         // the variable should always be declared after decalaring the data type only
